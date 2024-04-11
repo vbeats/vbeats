@@ -3,7 +3,6 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "vbeats",
-  base: "/blog/",
   description: "开心每一天",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
